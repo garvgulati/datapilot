@@ -1,0 +1,13 @@
+ProjectID,ProjectName,WBSID,TaskName,PlannedCost,ActualCost,Variance,VariancePercent,Status,Month
+PRJ-1001,ERP Finance Rollout,WBS-1001-01,Blueprint Workshops,125000,132500,7500,6.0,Over Budget,2026-01
+PRJ-1001,ERP Finance Rollout,WBS-1001-02,Configuration,210000,205000,-5000,-2.38,On Track,2026-02
+PRJ-1001,ERP Finance Rollout,WBS-1001-03,Integration Testing,98000,121500,23500,23.98,Over Budget,2026-03
+PRJ-1002,Supply Chain Control Tower,WBS-1002-01,Data Lake Setup,160000,158000,-2000,-1.25,On Track,2026-01
+PRJ-1002,Supply Chain Control Tower,WBS-1002-02,Carrier Integration,145000,171000,26000,17.93,Over Budget,2026-02
+PRJ-1002,Supply Chain Control Tower,WBS-1002-03,Analytics Enablement,112000,109500,-2500,-2.23,On Track,2026-03
+PRJ-1003,Plant Maintenance Mobile,WBS-1003-01,Mobile UX Design,72000,76000,4000,5.56,Watch,2026-01
+PRJ-1003,Plant Maintenance Mobile,WBS-1003-02,API Gateway,135000,164000,29000,21.48,Over Budget,2026-02
+PRJ-1003,Plant Maintenance Mobile,WBS-1003-03,Field Pilot,91000,88000,-3000,-3.30,On Track,2026-03
+PRJ-1004,Procurement Automation,WBS-1004-01,Vendor Portal,118000,115000,-3000,-2.54,On Track,2026-01
+PRJ-1004,Procurement Automation,WBS-1004-02,Invoice Matching,174000,198500,24500,14.08,Over Budget,2026-02
+PRJ-1004,Procurement Automation,WBS-1004-03,Compliance Reporting,86000,84000,-2000,-2.33,On Track,2026-03
