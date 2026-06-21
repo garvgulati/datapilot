@@ -112,53 +112,6 @@ npm install
 npm run dev
 ```
 
-## Publish to GitHub
-
-1. Create a new empty GitHub repository named `datapilot`.
-2. Make sure `.env` files, local storage, virtual environments, `node_modules`, and build outputs are ignored by `.gitignore`.
-3. Initialize git locally if needed:
-
-```bash
-git init
-```
-
-4. Review the files that will be committed:
-
-```bash
-git status
-```
-
-5. Stage and commit the project:
-
-```bash
-git add .
-git commit -m "Initial commit: DataPilot full-stack SaaS analytics platform"
-```
-
-6. Connect the local repository to GitHub:
-
-```bash
-git branch -M main
-git remote add origin https://github.com/<your-username>/datapilot.git
-```
-
-7. Push the project:
-
-```bash
-git push -u origin main
-```
-
-8. On GitHub, add a repository description such as:
-
-```text
-AI-powered full-stack SaaS for CSV/Excel data cleaning, analytics dashboards, anomaly detection, and grounded business Q&A.
-```
-
-9. Add useful repository topics:
-
-```text
-nextjs, fastapi, pandas, postgresql, sqlalchemy, openai, docker, analytics-dashboard, saas
-```
 
 ## Seed Sample Dataset
 
